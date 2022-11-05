@@ -52,7 +52,7 @@ const Timeit = ({
       <TimeColumn
         notShowExclude={notShowExclude}
         start={0}
-        end={23}
+        end={60}
         value={hour}
         setValue={setHour}
         exclude={hourExclude}
