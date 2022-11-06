@@ -9,3 +9,4 @@ declare type TimeitProps = {
 declare const Timeit: ({ onChange, defaultValue, minuteExclude, hourExclude, notShowExclude, }: TimeitProps) => JSX.Element;
 
 export { Timeit };
+ 
